@@ -15,35 +15,35 @@
 ## 文档目录
 
 - [01-开放能力与接入模型](docs/01-开放能力与接入模型.md)
-- [02-BLE开放协议V1](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/docs/02-BLE开放协议V1.md)
-- [03-小程序对接指南](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/docs/03-小程序对接指南.md)
-- [04-安全与稳定要求](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/docs/04-安全与稳定要求.md)
-- [05-兼容性认证流程](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/docs/05-兼容性认证流程.md)
-- [06-发布与运维清单](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/docs/06-发布与运维清单.md)
-- [device-manifest.schema.json](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/schemas/device-manifest.schema.json)
+- [02-BLE开放协议V1](docs/02-BLE开放协议V1.md)
+- [03-小程序对接指南](docs/03-小程序对接指南.md)
+- [04-安全与稳定要求](docs/04-安全与稳定要求.md)
+- [05-兼容性认证流程](docs/05-兼容性认证流程.md)
+- [06-发布与运维清单](docs/06-发布与运维清单.md)
+- [device-manifest.schema.json](schemas/device-manifest.schema.json)
 
 ## 授权与合规
 
-- [LICENSE.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/LICENSE.md)
-- [COMMERCIAL_LICENSE.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/COMMERCIAL_LICENSE.md)
-- [BUSINESS_CONTACT.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/BUSINESS_CONTACT.md)
-- [ENFORCEMENT_POLICY.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/ENFORCEMENT_POLICY.md)
-- [TERMS_OF_USE.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/TERMS_OF_USE.md)
-- [CHANGELOG.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/CHANGELOG.md)
+- [LICENSE.md](LICENSE.md)
+- [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md)
+- [BUSINESS_CONTACT.md](BUSINESS_CONTACT.md)
+- [ENFORCEMENT_POLICY.md](ENFORCEMENT_POLICY.md)
+- [TERMS_OF_USE.md](TERMS_OF_USE.md)
+- [CHANGELOG.md](CHANGELOG.md)
 
 ## 开发示例
 
-- [examples/README.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/examples/README.md)
-- [ESP32 Arduino 示例](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/examples/esp32-arduino/esp32_arduino_minimal.ino)
-- [nRF52 Zephyr 示例](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/examples/nrf52-zephyr/nrf52_zephyr_gatt_sample.c)
-- [Linux 网关示例](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/examples/linux-ble-proxy/python_ble_sender.py)
+- [examples/README.md](examples/README.md)
+- [ESP32 Arduino 示例](examples/esp32_arduino_minimal.ino)
+- [nRF52 Zephyr 示例](examples/nrf52_zephyr_gatt_sample.c)
+- [Linux 网关示例](examples/linux-ble-proxy_python_ble_sender.py)
 
 ## 快速开始（最短路径）
 
-1. 阅读 [02-BLE开放协议V1](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/docs/02-BLE开放协议V1.md)
-2. 按 [03-小程序对接指南](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/docs/03-小程序对接指南.md) 完成握手与像素指令
-3. 按 [04-安全与稳定要求](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/docs/04-安全与稳定要求.md) 完成测试
-4. 按 [05-兼容性认证流程](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/docs/05-兼容性认证流程.md) 提交认证
+1. 阅读 [02-BLE开放协议V1](docs/02-BLE开放协议V1.md)
+2. 按 [03-小程序对接指南](docs/03-小程序对接指南.md) 完成握手与像素指令
+3. 按 [04-安全与稳定要求](docs/04-安全与稳定要求.md) 完成测试
+4. 按 [05-兼容性认证流程](docs/05-兼容性认证流程.md) 提交认证
 
 ## 接入原则
 
