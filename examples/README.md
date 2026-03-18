@@ -5,6 +5,7 @@
 ## 示例列表
 
 - [ESP32 Arduino 最小可运行示例（HUB75）](esp32_arduino_minimal.ino)
+- [ESP32 直连HUB75](esp32_HUB75.ino)
 - [nRF52 Zephyr GATT 示例（通用像素板）](nrf52_zephyr_gatt_sample.c)
 - [Linux 网关发送示例（Python + Bleak）](linux-ble-proxy_python_ble_sender.py)
 - [设备接入案例文档](DEVICE_CASES_CN.md)
