@@ -67,5 +67,5 @@
 
 ## 7. 申请入口
 
-请提交到 [BUSINESS_CONTACT.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/BUSINESS_CONTACT.md) 所列渠道。
+请提交到 [BUSINESS_CONTACT.md](BUSINESS_CONTACT.md) 所列渠道。
 
