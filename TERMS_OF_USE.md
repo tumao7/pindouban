@@ -2,14 +2,14 @@
 
 ## 1. 条款适用
 
-访问、下载、使用本项目文档、协议、示例代码，即视为接受本条款及 [LICENSE.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/LICENSE.md)。
+访问、下载、使用本项目文档、协议、示例代码，即视为接受本条款及 [LICENSE.md](LICENSE.md)。
 
 ## 2. 使用边界
 
 - 个人非商用：允许免费使用
 - 商业用途：必须事先取得授权
 
-商业用途定义请参考 [COMMERCIAL_LICENSE.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/COMMERCIAL_LICENSE.md)。
+商业用途定义请参考 [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md)。
 
 ## 3. 数据与隐私
 
@@ -22,7 +22,7 @@
 
 ## 5. 违规处理
 
-发生违规商用、伪造认证、恶意攻击等行为时，平台可按 [ENFORCEMENT_POLICY.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/ENFORCEMENT_POLICY.md) 执行处置。
+发生违规商用、伪造认证、恶意攻击等行为时，平台可按 [ENFORCEMENT_POLICY.md](ENFORCEMENT_POLICY.md) 执行处置。
 
 ## 6. 条款更新
 
