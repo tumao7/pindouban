@@ -14,7 +14,7 @@
 
 ## 文档目录
 
-- [01-开放能力与接入模型](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/docs/01-开放能力与接入模型.md)
+- [01-开放能力与接入模型](docs/01-开放能力与接入模型.md)
 - [02-BLE开放协议V1](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/docs/02-BLE开放协议V1.md)
 - [03-小程序对接指南](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/docs/03-小程序对接指南.md)
 - [04-安全与稳定要求](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/docs/04-安全与稳定要求.md)
