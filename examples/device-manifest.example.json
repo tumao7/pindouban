@@ -1,0 +1,23 @@
+{
+  "vendor": "Your Company",
+  "model": "SPB-64X64-Pro",
+  "firmwareVersion": "v1.2.0",
+  "protocolVersion": "1.0.0",
+  "ble": {
+    "namePrefix": "kmpd",
+    "serviceUUID": "4fafc201-1fb5-459e-8fcc-c5c9c331914b",
+    "characteristicUUID": "beb5483e-36e1-4688-b7f5-ea07361b26a8"
+  },
+  "display": {
+    "width": 64,
+    "height": 64,
+    "driver": "HUB75"
+  },
+  "capabilities": {
+    "clear": true,
+    "draw": true,
+    "show": true,
+    "heartbeat": true,
+    "auth": false
+  }
+}

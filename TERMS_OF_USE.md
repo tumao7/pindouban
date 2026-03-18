@@ -1,0 +1,30 @@
+# 使用条款（Terms of Use）
+
+## 1. 条款适用
+
+访问、下载、使用本项目文档、协议、示例代码，即视为接受本条款及 [LICENSE.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/LICENSE.md)。
+
+## 2. 使用边界
+
+- 个人非商用：允许免费使用
+- 商业用途：必须事先取得授权
+
+商业用途定义请参考 [COMMERCIAL_LICENSE.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/COMMERCIAL_LICENSE.md)。
+
+## 3. 数据与隐私
+
+使用者应自行确保其设备与系统符合当地法律法规，并对自身采集、传输、存储的数据合规负责。
+
+## 4. 责任限制
+
+本项目按现状提供，不提供任何明示或默示担保。  
+对因使用本项目产生的设备损坏、业务中断、数据损失等风险，使用者自行承担。
+
+## 5. 违规处理
+
+发生违规商用、伪造认证、恶意攻击等行为时，平台可按 [ENFORCEMENT_POLICY.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/ENFORCEMENT_POLICY.md) 执行处置。
+
+## 6. 条款更新
+
+条款可能按版本更新。继续使用即视为接受最新条款。
+

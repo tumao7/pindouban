@@ -1,0 +1,96 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Smart Pixel Board Device Manifest",
+  "type": "object",
+  "required": [
+    "vendor",
+    "model",
+    "firmwareVersion",
+    "protocolVersion",
+    "ble",
+    "display",
+    "capabilities"
+  ],
+  "properties": {
+    "vendor": {
+      "type": "string",
+      "minLength": 1
+    },
+    "model": {
+      "type": "string",
+      "minLength": 1
+    },
+    "firmwareVersion": {
+      "type": "string",
+      "pattern": "^v?\\d+\\.\\d+\\.\\d+$"
+    },
+    "protocolVersion": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "ble": {
+      "type": "object",
+      "required": [
+        "namePrefix",
+        "serviceUUID",
+        "characteristicUUID"
+      ],
+      "properties": {
+        "namePrefix": {
+          "type": "string"
+        },
+        "serviceUUID": {
+          "type": "string"
+        },
+        "characteristicUUID": {
+          "type": "string"
+        }
+      }
+    },
+    "display": {
+      "type": "object",
+      "required": [
+        "width",
+        "height"
+      ],
+      "properties": {
+        "width": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "height": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "driver": {
+          "type": "string"
+        }
+      }
+    },
+    "capabilities": {
+      "type": "object",
+      "required": [
+        "clear",
+        "draw",
+        "show"
+      ],
+      "properties": {
+        "clear": {
+          "type": "boolean"
+        },
+        "draw": {
+          "type": "boolean"
+        },
+        "show": {
+          "type": "boolean"
+        },
+        "heartbeat": {
+          "type": "boolean"
+        },
+        "auth": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}
