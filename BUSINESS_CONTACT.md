@@ -36,8 +36,8 @@
 
 请确认以下事项：
 
-- 已阅读 [LICENSE.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/LICENSE.md)
-- 已阅读 [COMMERCIAL_LICENSE.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/COMMERCIAL_LICENSE.md)
+- 已阅读 [LICENSE.md](LICENSE.md)
+- 已阅读 [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md)
 - 未授权前不会进行商用发布
 
 ## 6. 响应时效
