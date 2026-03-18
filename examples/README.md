@@ -4,10 +4,10 @@
 
 ## 示例列表
 
-- [ESP32 Arduino 最小可运行示例（HUB75）](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/examples/esp32-arduino/esp32_arduino_minimal.ino)
-- [nRF52 Zephyr GATT 示例（通用像素板）](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/examples/nrf52-zephyr/nrf52_zephyr_gatt_sample.c)
-- [Linux 网关发送示例（Python + Bleak）](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/examples/linux-ble-proxy/python_ble_sender.py)
-- [设备接入案例文档](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/examples/DEVICE_CASES_CN.md)
+- [ESP32 Arduino 最小可运行示例（HUB75）](esp32_arduino_minimal.ino)
+- [nRF52 Zephyr GATT 示例（通用像素板）](nrf52_zephyr_gatt_sample.c)
+- [Linux 网关发送示例（Python + Bleak）](linux-ble-proxy_python_ble_sender.py)
+- [设备接入案例文档](DEVICE_CASES_CN.md)
 
 ## 对应产品形态
 
