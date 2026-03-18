@@ -56,5 +56,5 @@
 
 ## 8. 联系方式
 
-商用授权请参考 [BUSINESS_CONTACT.md](file:///d:/xiaochengxu/axcx/hardware/open-smart-pixel-board/BUSINESS_CONTACT.md)
+商用授权请参考 [BUSINESS_CONTACT.md](BUSINESS_CONTACT.md)
 
