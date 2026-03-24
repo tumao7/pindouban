@@ -4,6 +4,9 @@
 
 ![1.png](https://github.com/tumao7/pindouban/blob/main/gh_1bbe4fb7135a_258.jpg)
 
+2026324 最新碎片算法已更新
+[最近算法使用教程说明](https://mp.weixin.qq.com/s/sp1yeLJtUkIMtbdNe6_AIA)
+
 
 这是“智能拼豆板开放对接”文档入口，面向以下开发者：
 
