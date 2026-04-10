@@ -10,7 +10,7 @@
 
 - Service UUID：`4fafc201-1fb5-459e-8fcc-c5c9c331914b`
 - Characteristic UUID：`beb5483e-36e1-4688-b7f5-ea07361b26a8`
-- Characteristic 属性：`WRITE` + `WRITE_NO_RESPONSE`
+- Characteristic 属性：`WRITE` + `WRITE_NO_RESPONSE` + `NOTIFY` (或 `INDICATE`)
 
 设备名格式：
 `kmpd-XXXX`
@@ -41,6 +41,15 @@
 [0x03]
 ```
 
+### 3.4 亮度调节
+
+```text
+[0x04, Value]
+```
+
+- `Value`: 0~100 (亮度百分比)
+- 设备端应在收到此指令后实时或渐变应用亮度，无需等待 `0x03` 显示指令。
+
 ## 4. 推荐扩展指令（V1.1+）
 
 ### 握手请求
@@ -60,6 +69,16 @@
 ```text
 [0x13, timestamp(4 bytes)]
 ```
+
+### 4.1 设备按键事件 (上行指令)
+
+```text
+[0x05] // 触发事件：切换上一个颜色
+[0x06] // 触发事件：切换下一个颜色
+```
+
+- 硬件端需对实体按键做防抖处理（建议20~50ms）。
+- 硬件端通过 `NOTIFY` 特征值主动向小程序发送此指令。
 
 ## 5. 错误码约定
 
