@@ -5,6 +5,7 @@
 ![1.png](https://github.com/tumao7/pindouban/blob/main/gh_1bbe4fb7135a_258.jpg)
 
 
+- 2026410 已支持360°旋转方向，亮度调节，颜色模式调节，支持实体按键切换上下颜色
 - 2026324 最新碎片算法已更新
 - [最新算法使用教程说明](https://mp.weixin.qq.com/s/sp1yeLJtUkIMtbdNe6_AIA)
 
