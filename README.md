@@ -4,6 +4,10 @@
 
 Android/ios端下载地址：[点我下载](https://app.u4z.cn "点击打开下载地址")
 
+全自动智能识别算法演示，也可自行体验，目前准确率可无限达到100%，模糊/大面积水印 等特殊情况除外
+
+<iframe src='//player.bilibili.com/player.html?bvid=BV1KcGG65E8h&cid=40494498456&p=1&share_source=copy_web' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true'></iframe>
+
 ![1.png](https://github.com/tumao7/pindouban/blob/main/gh_1bbe4fb7135a_258.jpg)
 
 ## **解析算法迎来重大更新
