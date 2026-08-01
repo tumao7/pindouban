@@ -1,7 +1,8 @@
 # 智能拼豆板蓝牙模块开放协议
 
 该开放协议是基于微信小程序 以及双端APP：酷猫拼豆 开放的智能拼豆板蓝牙模块协议
-Android/ios端下载地址：[百度](https://app.u4z.cn "点击打开百度首页")
+
+Android/ios端下载地址：[点我下载](https://app.u4z.cn "点击打开下载地址")
 
 ![1.png](https://github.com/tumao7/pindouban/blob/main/gh_1bbe4fb7135a_258.jpg)
 
