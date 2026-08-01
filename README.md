@@ -6,7 +6,8 @@ Android/ios端下载地址：[点我下载](https://app.u4z.cn "点击打开下�
 
 全自动智能识别算法演示，也可自行体验，目前准确率可无限达到100%，模糊/大面积水印 等特殊情况除外
 
-<iframe src='//player.bilibili.com/player.html?bvid=BV1KcGG65E8h&cid=40494498456&p=1&share_source=copy_web' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true'></iframe>
+[![演示视频](https://i1.hdslb.com/bfs/archive/695f4e63bff2c126a95bfadd527793f5423198b2.jpg)](https://www.bilibili.com/video/BV1KcGG65E8h/?vd_source=3a2c52dce47011ee9013ee4d42f95e0d)
+
 
 ![1.png](https://github.com/tumao7/pindouban/blob/main/gh_1bbe4fb7135a_258.jpg)
 
