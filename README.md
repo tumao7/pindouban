@@ -8,7 +8,7 @@ Android/ios端下载地址：[点我下载](https://app.u4z.cn "点击打开下�
 
 [![演示视频](https://i1.hdslb.com/bfs/archive/695f4e63bff2c126a95bfadd527793f5423198b2.jpg)](https://www.bilibili.com/video/BV1KcGG65E8h/?vd_source=3a2c52dce47011ee9013ee4d42f95e0d)
 
-[点击上方查看演示视频]
+  [点击上方查看演示视频]
 
 
 
